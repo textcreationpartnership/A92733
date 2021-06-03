@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots resolution concerning this present expedition. Expressed in the voluntary service of diverse Scottish commanders, who profered themselves to the Parliament to serve in this expedition for the King and Parliament, with the Parliaments acceptation of the same profer. Also the setting forth of the Lord Brook, Colonell Hampden, Colonell Hollis, Colonell Fines, and Colonell Goodwyn to meet the cavaliers at Warwick, with about six thousand horse and foot, who are now in their march towards Whibits. Also the manner of apprehending two jesuites in Covent garden, August 22. H. Elsynge, Cler. Parl. D. Com.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92733</idno><idno type="EEBO-CITATION">99861025</idno>
+  <idno type="VID">113152</idno>
+  <idno type="EEBO-PROQUEST">2240887947</idno>
+  
+            <idno type="STC">Wing S2029B</idno>
+            <idno type="STC">Thomason E113_10</idno>
+            <idno type="STC">ESTC R20022</idno>
+            <idno type="PROQUEST">99861025</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861025e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113152)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E113[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots resolution concerning this present expedition. Expressed in the voluntary service of diverse Scottish commanders, who profered themselves to the Parliament to serve in this expedition for the King and Parliament, with the Parliaments acceptation of the same profer. Also the setting forth of the Lord Brook, Colonell Hampden, Colonell Hollis, Colonell Fines, and Colonell Goodwyn to meet the cavaliers at Warwick, with about six thousand horse and foot, who are now in their march towards Whibits. Also the manner of apprehending two jesuites in Covent garden, August 22. H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Edwards,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 23. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brooke, Robert Greville, --  Baron, 1607-1643 --  Early works to 1800.</term>
+               <term type="personal_name">Fiennes, Nathaniel, 1607 or 8-1669 --  Early works to 1800.</term>
+               <term type="personal_name">Goodwin, Arthur, 1593 or 4-1643 --  Early works to 1800.</term>
+               <term type="personal_name">Hampden, John, 1594-1643 --  Early works to 1800.</term>
+               <term type="personal_name">Holles, Gervase, 1606-1675 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113152:1"/>
+            <pb facs="tcp:113152:1"/>
+            <p>THE SCOTS RESOLUTION Concerning this present Expedition.</p>
+            <p>Expressed in the voluntary service of diverse Scottish Commanders, who profered them<g ref="char:EOLhyphen"/>selves to the Parliament to serve in this Expe<g ref="char:EOLhyphen"/>dition for the King and Parliament, with the Parliaments acceptation of the same profer.</p>
+            <p>
+               <hi>ALSO</hi> THE SETTING FORTH OF
+<list>
+                  <item>The Lord BROOK,</item>
+                  <item>Colonell HAMPDEN,</item>
+                  <item>Colonell HOLLIS,</item>
+                  <item>Colonell FINES, and</item>
+                  <item>Colonell GOODWYN</item>
+               </list>
+            </p>
+            <p>To meet the Cavaliers at <hi>Warwick,</hi> with about six thousand Horse and Foot, who are now in their march towards <hi>Whibits.</hi>
+            </p>
+            <p>Also the manner of apprehending two Jesuites in <hi>Covent Garden, August</hi> 22.</p>
+            <p>H. Elsynge, Cler. Parl. D. Com.</p>
+            <p>Printed for <hi>Tho. Edwards. August</hi> 23. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113152:2"/>
+            <pb n="1" facs="tcp:113152:2"/>
+            <head>THE SCOTCH RESOLVTION Concerning the present Expedition, <hi>ALSO</hi> THE SETTING FORTH OF
+<list>
+                  <item>The Lord <hi>Brook,</hi>
+                  </item>
+                  <item>Colonell <hi>Hampden,</hi>
+                  </item>
+                  <item>Colonell <hi>Holles,</hi>
+                  </item>
+                  <item>Colonell <hi>Goodwyn,</hi>
+                  </item>
+               </list> To meet the Cavaliers at <hi>Warwick,</hi> who are now in their march towards <hi>Whibits.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He continuall assistance and bro<g ref="char:EOLhyphen"/>therly affection of the <hi>Scots</hi> to this Kingdome, in hindring and opposing the practices of the malighant party (which do daily endeavour and strive by al means possible to retard and hinder the expected pro<g ref="char:EOLhyphen"/>ceedings of Parliament hath very much en<g ref="char:EOLhyphen"/>couraged the desires of those who wish well to the happy and much desired union of the King and Parliament. And as a demonstration of
+<pb n="2" facs="tcp:113152:3"/>this their primary and first fidelity to the Par<g ref="char:EOLhyphen"/>liament, they have given of late a new and large testimony and expression of their true and reall love and affection to this Kingdome. For upon Saturday last in the morning, there came many Scottish Commanders of very good sufficien<g ref="char:EOLhyphen"/>cy and ability, and offered their service, with all the performance that lay in their power to serve the King and Parliament in this present expedition, professing moreover to the House, that they would endeavour themselves with the hazard and expence of their lives and fortunes, for a happy reconciliation between the King and Parliament to bring the Delinquents (who have beene the maine causers of these terrible and dangerous distractions in this our King<g ref="char:EOLhyphen"/>dome) to an examination and triall for their offences, to settle and reform the abuses which have for many yeeres troubled the Church, and so by a most unhappy consequence troubled this whole Kingdome, bred many and dange<g ref="char:EOLhyphen"/>rous distractions in the Commonwealth. This service so free and voluntary being profered to the House, it was accepted with much gratula<g ref="char:EOLhyphen"/>tion, and a publike acceptation of their kinde affection.</p>
+            <p>Vpon Saturday the 20. of this moneth the Earle of <hi>Stamford</hi> with his Forces, consisting of five hundred Foot and a Troupe of Horse marched out of <hi>London</hi> towards S. <hi>Albans,</hi> to
+<pb n="3" facs="tcp:113152:3"/>go into <hi>Leicester</hi> Shire to meet with M. <hi>Ha<g ref="char:EOLhyphen"/>stings</hi> sonne to the Earle of <hi>Huntingdon,</hi> by whom he had formerly received many strange and insolent oppositions, who with his adhe<g ref="char:EOLhyphen"/>rents and confederates, hath made many assaults against the said Earles house, that they might from thence take and carry away the Magazine of that County, which was treasured up in his house. The Parliament also understanding and considering what opposition the said Earle had found by the said M. <hi>Hastings,</hi> for his better proceedings, and more able assistance, they or<g ref="char:EOLhyphen"/>dered that the said Earle should be furnished for his present purpose with foure peeces of Ordnance, and two wagons for his carriage.</p>
+            <p>Vpon the 22. of <hi>August</hi> two Jesuites were discovered in Covent Garden, the one was im<g ref="char:EOLhyphen"/>mediately apprehended, the other got into a a vault, and hid himself for a while, but at last was found by a company of boys and drag'd to the Parliament House, the boyes bearing of a drum before him saying, <hi>he was lost, and is found.</hi>
+            </p>
+            <p>The County of <hi>Chester</hi> hath been very tumul<g ref="char:EOLhyphen"/>tuous of late, and many disturbances have been in that Countrey, insomuch as the House be<g ref="char:EOLhyphen"/>ing informed thereof, sent down Messengers to bring up to the House those who were the a<g ref="char:EOLhyphen"/>gents and causers of those disturbances: the same day the Messengers returned again to the Parliament House, informing them that they,
+<pb n="4" facs="tcp:113152:4"/>who were delinquents, and for whom warrants were sent downe, refused to obey the aforena<g ref="char:EOLhyphen"/>med Warrants, pretending that they were protected by those who had the ordering of the Commission of Array from His Maiesty from that County, which doth very much disture and vexe that Countrey.</p>
+            <p>And that they may the better bring to passe and effect their intended plots and designes, many of the Justices of Peace for that County were made of persons as did side and joyn with the malignant party, and that whereas that County sends sends but five Burgesses to the Parliament House, three of them are flow im<g ref="char:EOLhyphen"/>ployed by His Maiesty for the putting in exe<g ref="char:EOLhyphen"/>cution the Commission of Array.</p>
+            <p>Much distraction there is in those parts, by reason of those that strive to oppose the Ordi<g ref="char:EOLhyphen"/>nance of the <hi>Militia</hi> by endeavouring to set up the Commission of Array.</p>
+            <p>But especially remarkable is the endeavour of Sir <hi>William Brewerton,</hi> who doth very good service for the King and Parliament in those part, by resisting them who doe endeavour to put the Commission of Array in execution. For the greater encouragement of them who stand for the peace of the Kingdome against the opposite party in that County, they have the aid and assistance of the inhabitants of the city of <hi>Chester,</hi> who are very faithfull and
+<pb n="5" facs="tcp:113152:4"/>trusty in their fidelity and good affection to the Parliament, by which meanes a great part of the Countrey is drawne away from their waver<g ref="char:EOLhyphen"/>ing disposition wherein at first they stood tot<g ref="char:EOLhyphen"/>tering. And although many dangerous at<g ref="char:EOLhyphen"/>tempts have been made against the city of <hi>Che<g ref="char:EOLhyphen"/>ster,</hi> and many plots, endeavours and contri<g ref="char:EOLhyphen"/>vances have endangered those parts, as yet their designes take none effect, but by some good and faithfull members or other their intentions have been defeated.</p>
+            <p>It is not unknowne to all men what plots and conspiracies have been attempted by the Cavaliers for the surprizing of <hi>Hull,</hi> and all to no purpose; for after so many moneths siege they are forced to leave their trenches, to for<g ref="char:EOLhyphen"/>sake the is fortifications, and betake themselves to flight: For Sir <hi>Iohn Hotham</hi> hath so cleared the coasts about him by sea and land, that the Cavaliers dare not so much as adventure to come neer the towne. As for the chiefest of the Gentry of <hi>Yorkshire,</hi> they have declared their resolution to assist the Parliament against all that shall oppose them, and for that end have profered to adventure their owne estates and persons to both Houses of Parliament for the maintenance of the Protestant Religion, the Priviledge of Parliament, and the Liberty of the Subiect: and that they may be the better enabled to defend and maintain the said Cause,
+<pb n="6" facs="tcp:113152:5"/>they have desired the Parliament that a con<g ref="char:EOLhyphen"/>siderable number of Horse and Foot might be sent to that County, and that power and autho<g ref="char:EOLhyphen"/>rity might bee given to such Gentlemen, whose names they presented to the House, be<g ref="char:EOLhyphen"/>ing men of trust, to raise Forces and command them, for the defence and safety of that Coun<g ref="char:EOLhyphen"/>trey. The King is expected to be at <hi>Nottin<g ref="char:EOLhyphen"/>gham</hi> this present munday, and from thence he intends with all possible speed to go to <hi>Warwick</hi> Shire, where the Lord <hi>Brook,</hi> Colonell <hi>Hamp<g ref="char:EOLhyphen"/>den,</hi> Colonell <hi>Hollis,</hi> and Colonell <hi>Goodwyn</hi> are marching toward <hi>Warwick</hi> with about six hun<g ref="char:EOLhyphen"/>dred Horse and Foot, where they intend to meet with the Cavaliers, and were to lie at <hi>Ban<g ref="char:EOLhyphen"/>bury</hi> on Saturday night last.</p>
+            <p>The Lords and Commons in Parliament declare, That all such persons as shall, upon any pretence whatsoever, assist His Maiesty in this Warre, with Horse, Arms, Plate or Money, are Traytors to His Maiesty, the Parliament and Kingdome, and shall be brought to con<g ref="char:EOLhyphen"/>digne punishment for so high an offence.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>Ordered to be forthwith published &amp; printed,</p>
+            <closer>
+               <signed>H. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
